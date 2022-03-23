@@ -18,7 +18,7 @@
 - Integrar JavaScript con HTML
 
 
-## Taller #2: Promedio, mediana y moda
+## Taller #3: Promedio, mediana y moda
 
 - Primer paso: Defenir las fórmar
 - Segundo paso: implementar las fórmulas en JavaScript
